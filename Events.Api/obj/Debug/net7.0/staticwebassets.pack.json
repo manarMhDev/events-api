@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\ChairTypes\\6348a819-9785-46ed-bee1-40c2682b2781.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ChairTypes\\6348a819-9785-46ed-bee1-40c2682b2781.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\ChairTypes\\7562d256-7b08-4659-b8c0-41280675ce76.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ChairTypes\\7562d256-7b08-4659-b8c0-41280675ce76.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\ChairTypes\\aa72e739-4dc0-4374-916e-1cd856241188.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ChairTypes\\aa72e739-4dc0-4374-916e-1cd856241188.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\ChairTypes\\e0301e88-05c3-41f8-b154-52275f08ac59.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ChairTypes\\e0301e88-05c3-41f8-b154-52275f08ac59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\EventPlaces\\d2c9ecb8-1c4e-4c18-8a4d-e409879c007d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\EventPlaces\\d2c9ecb8-1c4e-4c18-8a4d-e409879c007d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manarmh\\source\\repos\\Events\\Backend\\Events.Api\\wwwroot\\Uploads\\EventPlaces\\fbaa319b-8797-47cb-b7fa-0770d3a06ed0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\EventPlaces\\fbaa319b-8797-47cb-b7fa-0770d3a06ed0.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Events.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Events.Api.props",
+      "PackagePath": "build\\Events.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Events.Api.props",
+      "PackagePath": "buildMultiTargeting\\Events.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Events.Api.props",
+      "PackagePath": "buildTransitive\\Events.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
